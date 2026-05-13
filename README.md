@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Soha 👋
 
-<!--
-**Soha-Tabassom-Supre/Soha-Tabassom-Supre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE undergraduate interested in Backend Development, Problem Solving, and AI/ML.
+Currently focused on building strong backend fundamentals while exploring scalable systems, databases, and modern API development.
 
-Here are some ideas to get you started:
+## Currently Learning
+- FastAPI
+- PostgreSQL
+- SQLAlchemy
+- Docker
+- Authentication Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- Python
+- C++
+- Java
+- JavaScript
+- C
+
+## Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+## Backend & Database
+- FastAPI
+- MySQL
+- PostgreSQL
+- SQL
+
+## Tools
+- Git
+- GitHub
+- Linux
+
+## Problem Solving
+- Codeforces
+- CodeChef
+
+## Exploring
+- Django
+- AI/ML
