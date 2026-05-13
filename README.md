@@ -40,3 +40,9 @@ Currently focused on building strong backend fundamentals while exploring scalab
 ## Exploring
 - Django
 - AI/ML
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/soha-tabassom-supre-574266344/
+- Codeforces: https://codeforces.com/profile/soha_stack
+- CodeChef: https://www.codechef.com/users/soha_stack
+- LeetCode: https://leetcode.com/u/stack_soha_jak/
