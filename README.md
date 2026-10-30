@@ -1,48 +1,44 @@
 # Hi, I'm Soha 👋
 
-CSE undergraduate interested in Backend Development, Problem Solving, and AI/ML.
-Currently focused on building strong backend fundamentals while exploring scalable systems, databases, and modern API development.
+I'm a Computer Science and Engineering student at Jashore University of Science and Technology (JUST), Bangladesh.
 
-## Currently Learning
-- FastAPI
-- PostgreSQL
-- SQLAlchemy
-- Docker
-- Authentication Systems
+I enjoy solving programming problems, building practical projects, and understanding how software works beyond the surface. I'm currently strengthening my full-stack development skills while exploring AI, especially AI agents and efficient models.
 
-## Languages
-- Python
-- C++
-- Java
-- JavaScript
-- C
+## What I'm Working On
 
-## Frontend
-- HTML5
-- CSS3
-- JavaScript
+- Building with **React, Next.js, TypeScript, and Tailwind CSS**
+- Learning backend development, REST APIs, authentication, and databases
+- Practicing data structures, algorithms, and competitive programming
+- Exploring **AI agents and efficient AI** as areas for future study
 
-## Backend & Database
-- FastAPI
-- MySQL
-- PostgreSQL
-- SQL
+## Tech Stack
 
-## Tools
-- Git
-- GitHub
-- Linux
+**Languages:** C++, JavaScript, TypeScript, Python, Java, C  
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS  
+**Backend & Databases:** Node.js, Express.js, FastAPI, SQL, MySQL, PostgreSQL, MongoDB  
+**Tools:** Git, GitHub, Linux, VS Code
+
+## Selected Projects
+
+- **[Bazar-Dor](https://github.com/Soha-Tabassom-Supre/Bazar-Dor)** — A price-tracking web project for exploring and comparing everyday market prices.
+- **[FitLog](https://github.com/Soha-Tabassom-Supre/fitlog)** — A fitness-tracking web application.
+- **[CS Planner](https://github.com/Soha-Tabassom-Supre/Cs-planner)** — A lesson-planning dashboard for organizing computer science topics and teaching schedules.
+
+I'm continuing to improve these projects as I learn, with a focus on readable code, useful features, and stronger engineering fundamentals.
 
 ## Problem Solving
-- Codeforces
-- CodeChef
 
-## Exploring
-- Django
-- AI/ML
+I practice competitive programming on:
 
-## Connect With Me
-- LinkedIn: https://www.linkedin.com/in/soha-tabassom-supre-574266344/
-- Codeforces: https://codeforces.com/profile/soha_stack
-- CodeChef: https://www.codechef.com/users/soha_stack
-- LeetCode: https://leetcode.com/u/stack_soha_jak/
+- [Codeforces](https://codeforces.com/profile/soha_stack)
+- [CodeChef](https://www.codechef.com/users/soha_stack)
+- [LeetCode](https://leetcode.com/u/stack_soha_jak/)
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/soha-tabassom-supre-574266344/)
+- [GitHub](https://github.com/Soha-Tabassom-Supre)
+
+---
+
+*Learning consistently, building step by step, and staying curious.*
