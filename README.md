@@ -44,7 +44,7 @@ I'm continuing to improve these projects as I learn, with a focus on readable co
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Soha-Tabassom-Supre&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Soha-Tabassom-Supre&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub profile statistics" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Soha-Tabassom-Supre&layout=compact&hide_border=true&cache_seconds=86400" alt="Most used languages" />
 </p>
 
